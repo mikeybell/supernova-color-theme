@@ -1,0 +1,21 @@
+{
+    "name": "supernova-color-theme",
+    "displayName": "Supernova Color Theme",
+    "description": "A supernova inspired color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Supernova",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Supernova Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
