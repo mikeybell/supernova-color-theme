@@ -14,7 +14,7 @@
             {
                 "label": "Supernova",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Supernova Color Theme-color-theme.json"
+                "path": "./themes/Supernova-color-theme.json"
             }
         ]
     }
