@@ -27,7 +27,7 @@
 		"input.border": "#084D81",
 		"input.foreground": "#D6DEEB",
 		"input.placeholderForeground": "#7999B3",
-		"inputOption.activeBorder": "#A5EB56",
+		"inputOption.activeBorder": "#C3E88D",
 		"inputValidation.errorBackground": "#EE4845",
 		"inputValidation.errorBorder": "#EE4845",
 		"inputValidation.infoBackground": "#084D81",
@@ -124,12 +124,12 @@
 		"editorWarning.foreground": "#FFCA28",
 		"editorGutter.background": "#212834",
 		"editorGutter.modifiedBackground": "#FFCA28",
-		"editorGutter.addedBackground": "#A5EB56",
+		"editorGutter.addedBackground": "#C3E88D",
 		"editorGutter.deletedBackground": "#EE4845",
 
 		// Diff Editor
-		"diffEditor.insertedTextBackground": "#A5EB5623",
-		"diffEditor.insertedTextBorder": "#A5EB5633",
+		"diffEditor.insertedTextBackground": "#C3E88D23",
+		"diffEditor.insertedTextBorder": "#C3E88D33",
 		"diffEditor.removedTextBackground": "#EE484533",
 		"diffEditor.removedTextBorder": "#EE48454d",
 
@@ -235,7 +235,7 @@
 		// Git
 		"gitDecoration.modifiedResourceForeground": "#89DDFF",
 		"gitDecoration.deletedResourceForeground": "#EE484590",
-		"gitDecoration.untrackedResourceForeground": "#A5EB56ff",
+		"gitDecoration.untrackedResourceForeground": "#C3E88Dff",
 		"gitDecoration.ignoredResourceForeground": "#384B5C",
 		"gitDecoration.conflictingResourceForeground": "#FFCA28cc"
 	},
