@@ -743,7 +743,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#FA854E"
+				"foreground": "#C792EA"
 			}
 		},
 		{
@@ -770,7 +770,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#6E9CFF"
+				"foreground": "#C792EA"
 			}
 		},
 		{
@@ -788,7 +788,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFDC6B"
+				"foreground": "#C792EA"
 			}
 		},
 		{
