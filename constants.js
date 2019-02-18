@@ -3,7 +3,7 @@ const backgroundDark = "#1C222D";
 const backgroundDarkest = "#141820";
 
 const text1 = "#D6DEEB"
-const text2 = "#5F7E97"
+const text2 = "#7999B3"
 const text3 = "#384B5C"
 
 const darkBlue = "#084D81";
