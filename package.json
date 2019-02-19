@@ -15,7 +15,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "supernova-icon.png",
+    "icon": "supernova-icon-2.png",
     "contributes": {
         "themes": [
             {
