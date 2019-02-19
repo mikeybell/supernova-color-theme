@@ -1,15 +1,21 @@
 {
     "name": "supernova-color-theme",
-    "displayName": "Supernova",
+    "displayName": "Supernova Theme",
     "description": "A supernova inspired color theme",
     "publisher": "MikeBell",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.31.0"
     },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Color Theme"
+    ],
     "categories": [
         "Themes"
     ],
+    "icon": "owl-icon.png",
     "contributes": {
         "themes": [
             {
