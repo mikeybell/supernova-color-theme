@@ -1,10 +1,11 @@
 .someClass {
-  display: flex;
-  justify-content: space-around;
-  margin: 0 auto;
-  font-size: 16px;
+  font-family: serif;
 }
 
 #someID {
   background: yellow;
+}
+
+main {
+  margin-top: 20px;
 }
