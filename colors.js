@@ -8,8 +8,9 @@ const uiPurple =          "#8D71FD";
 
 // Text Colors
 const text1 =             "#D6DEEB"
-const text2 =             "#7999B3"
-const text3 =             "#384B5C"
+const text2 =             "#D0CBEB"
+const text3 =             "#7999B3"
+const text4 =             "#384B5C"
 const comment =           "#416480"
 
 const purple =            "#C792EA"

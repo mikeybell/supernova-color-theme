@@ -257,7 +257,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#D6DEEB"
+				"foreground": "#D0CBEB"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#D6DEEB"
+				"foreground": "#D0CBEB"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#D6DEEB"
+				"foreground": "#D0CBEB"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#D6DEEB"
+				"foreground": "#D0CBEB"
 			}
 		},
 		{
@@ -295,7 +295,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#D6DEEB"
+				"foreground": "#D0CBEB"
 			}
 		},
 		{
