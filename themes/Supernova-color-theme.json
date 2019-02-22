@@ -267,7 +267,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#D0CBEB"
+				"foreground": "#CFEBD1"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#CFEBD1"
+				"foreground": "#D0CBEB"
 			}
 		},
 		{
@@ -530,7 +530,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#F1DC3D"
+				"foreground": "#C3E88D"
 			}
 		},
 		{
