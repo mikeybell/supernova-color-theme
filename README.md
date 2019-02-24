@@ -2,8 +2,9 @@
 
 > A Supernova color theme for VS Code.
 
-### Previews
-![alt text](https://github.com/mikeybell/supernova-color-theme/previews/supernova_react.png "React Preview")
+## Previews
+### React
+!(https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_react.png "React Preview")
 
 
 ### Installing Theme
