@@ -4,7 +4,7 @@
 
 ## Previews
 ### React
-!(https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_react.png "React Preview")
+![alt text](https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_react.png "React Preview")
 
 
 ### Installing Theme
