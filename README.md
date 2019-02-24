@@ -4,7 +4,19 @@
 
 ## Previews
 ### React
-![alt text](https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_react.png "React Preview")
+![React preview](https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_react.png "React Preview")
+
+### Javascript
+![Javascript preview](https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_javascript.png "Javascript Preview")
+
+### HTML
+![HTML preview](https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_html.png "HTML Preview")
+
+### CSS
+![CSS preview](https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_css.png "CSS Preview")
+
+### Markdown
+![Markdown preview](https://github.com/mikeybell/supernova-color-theme/blob/master/previews/supernova_markdown.png "Markdown Preview")
 
 
 ### Installing Theme
