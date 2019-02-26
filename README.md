@@ -22,7 +22,7 @@
 ### Installing Theme
 1. Run Visual Sudio Code
 2. Open the Extensions sidebar or select `View -> Extensions`
-3. Search for `Supernona Theme` by MikeBell
+3. Search for `Supernova Theme` by MikeBell
 4. Select it and click `install`
 
 ### Activating Theme
