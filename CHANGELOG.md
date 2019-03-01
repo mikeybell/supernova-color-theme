@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "supernova-color-theme" extension will be documented in this file.
 
+## [0.1.4]
+- Updates inactive selection background
+
 ## [0.1.3]
 - Updates colors in editor widget
 - Updates colors in peek view
