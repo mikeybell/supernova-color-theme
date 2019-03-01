@@ -61,7 +61,7 @@
 		"list.highlightForeground": "#D6DEEB",
 		"list.hoverBackground": "#141820",
 		"list.hoverForeground": "#D6DEEB",
-		"list.inactiveSelectionBackground": "#1C222D",
+		"list.inactiveSelectionBackground": "#141820",
 		"list.inactiveSelectionForeground": "#7999B3",
 
 		// Activity Bar
