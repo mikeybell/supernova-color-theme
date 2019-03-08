@@ -37,9 +37,9 @@
 
 		// Scrollbars
 		"scrollbar.shadow": "#141820",
-		"scrollbarSlider.activeBackground": "#141820",
-		"scrollbarSlider.background": "#141820",
-		"scrollbarSlider.hoverBackground": "#141820",
+		"scrollbarSlider.activeBackground": "#141820AA",
+		"scrollbarSlider.background": "#141820BB",
+		"scrollbarSlider.hoverBackground": "#141820DD",
 
 		// Badges
 		"badge.background": "#8D71FD",
