@@ -1,5 +1,5 @@
 // UI Colors
-const background =        "#212834";
+const background =        "#202633";
 const backgroundDark =    "#1C222D";
 const backgroundDarkest = "#141820";
 
