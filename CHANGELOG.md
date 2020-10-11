@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "supernova-color-theme" extension will be documented in this file.
 
+## [0.1.6]
+- Better contrast on the main editor screen
+
 ## [0.1.5]
 - Adds some transparency to scroll bars
 
